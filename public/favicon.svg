@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="klEmeraldGrad" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="50%" stop-color="#15803D" />
+      <stop offset="100%" stop-color="#064E3B" />
+    </linearGradient>
+    <linearGradient id="klAmberGrad" x1="16" y1="48" x2="48" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="60%" stop-color="#D97706" />
+      <stop offset="100%" stop-color="#B45309" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#F7F4ED"/>
+  <circle cx="32" cy="32" r="28" fill="#15803D" fill-opacity="0.1" />
+  <path d="M20 23C16 19 11 22 11 28C11 36 21 44 32 51C33.5 49.9 36 47.8 38.5 45.5C36 44 33.5 41.5 32 39C27 31 25 28 20 23Z" fill="url(#klEmeraldGrad)" />
+  <path d="M44 23C48 19 53 22 53 28C53 36 43 44 32 51C34.5 46 39 37 43 32C45.5 28.5 46 25 44 23Z" fill="url(#klAmberGrad)" opacity="0.92" />
+  <path d="M26 26C28 22 36 22 38 26C41 31 32 38 32 38C32 38 23 31 26 26Z" fill="#10B981" opacity="0.8" />
+  <path d="M32 15C32 15 36 21 34 26C32 29 29 27 28 24C27 20 32 15 32 15Z" fill="#22C55E" />
+  <circle cx="32" cy="35" r="3" fill="#FFFFFF" />
+</svg>
