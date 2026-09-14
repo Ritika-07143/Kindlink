@@ -186,6 +186,38 @@ export default function LandingScreen() {
       </section>
 
       {/* ========================================================
+          FEATURED KINDLINK ECOSYSTEM BANNER
+          ======================================================== */}
+      <section className="relative overflow-hidden rounded-3xl bg-white/90 dark:bg-[#24201D]/90 backdrop-blur-md border border-[#E8E2D5] dark:border-[#332E29] p-3 sm:p-4 shadow-xs group">
+        <div className="relative overflow-hidden rounded-2xl border border-[#E8E2D5]/70 dark:border-[#332E29]/70 aspect-[16/7] sm:aspect-[16/6] lg:aspect-[21/8] w-full bg-[#1C1917]">
+          <img 
+            src="./kindlink-banner.jpg" 
+            alt="KindLink — Delhi NCR Food Rescue & Community Redistribution Grid" 
+            className="w-full h-full object-cover object-center group-hover:scale-[1.015] transition-transform duration-700 ease-out"
+            loading="eager"
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent pointer-events-none"></div>
+          <div className="absolute bottom-3 left-4 sm:bottom-6 sm:left-6 right-4 sm:right-6 flex flex-col sm:flex-row items-start sm:items-end justify-between gap-3 text-white pointer-events-none">
+            <div>
+              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-black/50 backdrop-blur-md border border-white/20 text-[11px] font-semibold text-emerald-300 mb-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+                <span>Delhi NCR Hyper-Local Food Rescue Grid</span>
+              </div>
+              <h3 className="text-lg sm:text-2xl font-extrabold tracking-tight text-white drop-shadow-md font-display">
+                Nourishing Delhi Communities • Zero Food Waste • Section 80G Tax Deductible
+              </h3>
+              <p className="hidden sm:block text-xs text-stone-300 mt-1 max-w-xl">
+                Connecting hotel buffets, artisan bakeries, and retail markets directly with grassroots soup kitchens and verified shelters across Delhi NCR.
+              </p>
+            </div>
+            <div className="hidden md:flex items-center gap-2 text-xs text-stone-200 bg-black/50 backdrop-blur-md px-3.5 py-1.5 rounded-full border border-white/20 shrink-0">
+              <span>🌱 Team IMPACTRIX Innovation</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ========================================================
           DYNAMIC IMPACT METRICS (Beige Elevation & Sparklines)
           ======================================================== */}
       <section className="space-y-4">
