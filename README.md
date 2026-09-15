@@ -173,12 +173,9 @@ KindLink was engineered and designed by **Team IMPACTRIX** for Delhi NCR social 
 | Member | Focus Area | Core Contribution |
 |---|---|---|
 | **Tanmay** | **Project Lead & Systems Architecture** | End-to-end platform vision, full stack data engineering, and operational pipeline design. |
-| **Vivek** | **Core Backend & Data Engineering** | Real-time state orchestration, NGO data schema, and FSSAI audit logging. |
-| **Mahi** | **UI/UX & Visual Design** | Warm linen aesthetic, design system, interactive micro-interactions, and accessible typography. |
-| **Ritika** | **Operations & NGO Verification** | Delhi NGO field research, partner verification protocols, and ground reality narrative curation. |
-| **Satyam** | **Systems Architecture & Performance** | Animation physics engine, 3D tilt mechanics, and lightweight rendering optimization. |
-| **Vishesh** | **Full Stack Development** | Interactive calculator logic, courier telemetry flow, and responsive layout engineering. |
-| **Pujitha** | **Product Strategy & User Research** | User empathy mapping, shelter recipient interviews, and CSR compliance requirements. |
+| **Ritika** | **Operations & NGO Verification** | Animation physics engine, 3D tilt mechanics, and lightweight rendering optimization.  |
+| **Satyam** | **Systems Architecture & Performance** |Delhi NGO field research, partner verification protocols, and ground reality narrative curation. |
+
 
 ---
 

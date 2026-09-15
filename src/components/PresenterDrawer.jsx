@@ -104,7 +104,7 @@ export default function PresenterDrawer() {
                 TEAM IMPACTRIX
               </span>
               <span className="text-[#78716C] dark:text-stone-400 font-medium">
-                Tanmay • Vivek • Mahi • Ritika • Satyam • Vishesh • Pujitha
+                Tanmay • Ritika • Satyam
               </span>
             </div>
             <span className="text-[11px] font-semibold text-amber-700 dark:text-amber-400">

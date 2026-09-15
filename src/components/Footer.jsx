@@ -173,7 +173,7 @@ export default function Footer() {
               <h3 className="text-2xl sm:text-3xl font-extrabold text-[#1C1917] dark:text-white font-display tracking-tight flex items-center justify-center lg:justify-start gap-2.5">
                 <span>TEAM IMPACTRIX</span>
                 <span className="text-xs px-3 py-0.5 rounded-full bg-amber-100 dark:bg-amber-950/80 text-amber-800 dark:text-amber-300 font-bold border border-amber-300/60 dark:border-amber-700/60 shadow-2xs">
-                  7 Innovators
+                  3 Innovators
                 </span>
               </h3>
               <p className="text-xs text-[#57534E] dark:text-stone-300 font-normal max-w-md">
@@ -185,12 +185,8 @@ export default function Footer() {
             <div className="flex flex-wrap items-center justify-center lg:justify-end gap-2.5 max-w-2xl">
               {[
                 { name: 'Tanmay', role: 'Innovation' },
-                { name: 'Vivek', role: 'Engineering' },
-                { name: 'Mahi', role: 'Design' },
                 { name: 'Ritika', role: 'Operations' },
-                { name: 'Satyam', role: 'Systems' },
-                { name: 'Vishesh', role: 'Full Stack' },
-                { name: 'Pujitha', role: 'Product' }
+                { name: 'Satyam', role: 'Systems' }
               ].map((member) => (
                 <div 
                   key={member.name}
